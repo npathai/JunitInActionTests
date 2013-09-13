@@ -1,6 +1,6 @@
 package test.chapter1;
 
-import test.chapter1.required.Calculator;
+import test.required.Calculator;
 import junit.framework.TestCase;
 
 //Any class that requires to use the JUnit Testing framework needs to extend TestCase Class

@@ -1,4 +1,4 @@
-package test.chapter1.required;
+package test.required;
 
 public class Calculator {
 
